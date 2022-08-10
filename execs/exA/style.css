@@ -1,0 +1,17 @@
+*{
+ box-sizing: border-box;
+ padding: 0;
+ margin: 0;
+}
+.conteiner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.result{
+    width: 150px;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+}
